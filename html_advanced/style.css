@@ -1,0 +1,52 @@
+body
+{
+    border: 5px solid black;
+    height: 100vh;
+    padding: 5px;
+
+}
+
+header
+{
+    border: 3px solid black;
+    /*height: 30px;*/
+    padding: 4px;
+    
+}
+
+header div
+{ 
+   border: 1px solid black;
+   /* height: inherit;*/
+   display: flex;
+   justify-content: space-between;
+   padding: 5px;
+}
+
+.logo
+{
+    border: 1px solid red;
+    width: 100px;
+}
+
+.links
+{
+    width: 150px;
+}
+
+.logo1
+{
+    border: 1px solid green;
+    height: inherit;
+    width: inherit;
+}
+.links_all
+{
+    border: 1px solid red;
+    width: 45px;
+}
+.logo a img
+{
+    height: 20px;
+    width: 90px;
+}
