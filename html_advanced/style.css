@@ -1,7 +1,7 @@
 body
 {
     border: 5px solid black;
-    height: 100vh;
+    height: 160vh;
     padding: 5px;
 
 }
@@ -49,4 +49,173 @@ header div
 {
     height: 20px;
     width: 90px;
+}
+
+main
+{
+    border: 3px solid black;
+    height: 120vh;
+    margin-top: 5px;
+    padding:5px 10px;
+}
+.section1 
+{
+    border: 1px solid black;
+    height: 48vh;
+    padding: 5px;
+    margin-top: 5px;
+}
+    
+.block1
+{
+   /* text-align: center;*/
+    
+    border: 1px solid black;
+    Padding: 5px;
+    height: 70px;
+    width: 150px;
+    /*justify-self: center;*/
+    margin-right: auto;
+    margin-left: auto;
+     
+}
+.block1 h2
+{
+   border: 1px solid blue;
+   font-size: 20px;
+    margin: 0px;
+    width: inherit;
+}
+.block1 p
+{
+    border: 1px solid purple;
+    margin: 0px;
+    width: inherit;
+}
+.block1 button
+{
+    border: 1px solid yellow;
+    justify-content: center;
+    width: inherit;
+}
+
+.sec1_div2
+{
+    border: 1px solid black;
+    height: 30vh;
+    margin-top: 10px;
+    padding: 10px;
+    
+}
+.block2
+{
+   /* text-align: center;*/
+    
+    border: 1px  black;
+    Padding: 5px;
+    height: 30px;
+    width: 150px;
+    /*justify-self: center;*/
+    margin-right: auto;
+    margin-left: auto;
+}
+.block2 h2
+{
+    margin-top: 0px;
+    border: 1px solid blue;
+}
+
+.four_blocks
+{
+   /* border: 1px  black;
+    height: 165px;*/
+}
+.stl
+{
+    display:flex;
+    justify-content: space-between;
+    height: 155px;
+    padding: 5px;
+}
+.grids
+{
+    border: 1px solid black;
+    height: inherit;
+    width: 20%;
+    
+
+}
+.grids h3
+{
+   border: 1px solid blue;
+   font-size: 20px;
+    margin: 0px;
+    width: 90px;
+}
+.grids p
+{
+    border: 1px solid purple;
+    margin: 0px;
+    width: 90px;
+}
+.grids img
+{
+   /* border: 1px solid yellow;*/
+    justify-content: center;
+    width: 100px;
+    height: 100px;
+}
+
+.section2 
+{
+    border: 1px solid black;
+    height: 25vh;
+    padding: 5px;
+    margin-top: 5px;
+}
+.sec2
+{
+   /* text-align: center;*/
+    
+    border: 1px solid black;
+    Padding: 5px;
+    height: 23vh;
+    width: 30%;
+    /*justify-self: center;*/
+    margin-right: auto;
+    margin-left: auto;
+    display: flex;
+    justify-content: space-between;
+     
+}
+.sec2_div
+{
+    border: 1px solid black;
+    width: 220px;
+    padding: 5px;
+   
+}
+.sec2 img
+{
+    height: 60px;
+    width: inherit;
+}
+.sec2_div h3
+{
+
+   border: 1px solid purple;
+   font-size: 20px;
+    margin: 0px;
+    width: inherit;
+    
+}
+
+.sec2_div site
+{
+
+   border: 1px solid purple;
+   font-size: 20px;
+    margin: 0px;
+    width: inherit;
+    
 }
