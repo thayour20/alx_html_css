@@ -1,0 +1,29 @@
+body
+{
+    display: flex;
+    flex-direction: column;
+}
+
+main
+{
+    display: flex;
+    flex-direction:row;
+    flex: auto;
+}
+article
+{
+    flex: 2;
+    overflow-y: auto;
+    background-color: rgb(183, 188, 195);
+}
+aside
+{
+    flex: 1;
+    overflow-y: auto;
+}
+
+#logo
+{
+    font-weight:1000px;
+    background-color: slategrey;
+}
