@@ -375,12 +375,12 @@
   
 /* Section Latest news ============================= */
 
-.section-latest-news .container .section-body .row {
+.section-latest-news .row {
     flex-direction: row-reverse;
 }
 
 /* Section SERVICES ============================= */
-.section-services .row{
+.section-services .row {
     flex-wrap: wrap;
 }
   /*** 4. CARD ***/
